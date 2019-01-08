@@ -4,6 +4,7 @@
 
 介紹：
       監獄兔因為某些原因被關進了監獄，有一天他突然覺得對監獄的生活感到無聊，因此決定展開越獄的行動。
+      [<img src="https://i.imgur.com/afAT1CR.png">](http://google.com.au/)
 
 工具：
       使用MAYA建構模型、動畫
