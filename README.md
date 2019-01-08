@@ -4,7 +4,7 @@
 
 
       [<img src="https://i.imgur.com/afAT1CR.png">](http://google.com.au/)
-
+      [![IMAGE ALT TEXT HERE](https://i.imgur.com/afAT1CR.pn)]
 影片：
       https://www.youtube.com/watch?v=NHd7xVgsiqs
 
