@@ -8,8 +8,7 @@
 ### 工具：
 + 使用MAYA建構模型、動畫
 
-
-       [<img src="blob:https://i.imgur.com/uoBnBCW.png">](http://google.com.au/)
+[<img src="blob:https://i.imgur.com/uoBnBCW.png">](http://google.com.au/)
 
 
 ### 影片：
